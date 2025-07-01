@@ -1,5 +1,7 @@
 This Power BI project analyzes survey data from 630 global data professionals to uncover trends in job roles, salaries, technologies, and workplace satisfaction. The dataset includes information on job titles (e.g., Data Scientist, Data Engineer, Data Analyst), preferred programming languages, geographic distribution of respondents, and self-reported ratings for salary and work-life balance.
 
+![Dashboard Preview](114.png)
+
 The dashboard includes:
 
 Bar charts to compare average salaries and favorite programming languages by job role
