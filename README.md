@@ -2,7 +2,7 @@ This Power BI project analyzes survey data from 630 global data professionals to
 
 ![Dashboard Preview](Dashboard.png)
 
-The dashboard includes:
+**The dashboard includes**:
 
 Bar charts to compare average salaries and favorite programming languages by job role
 
@@ -14,7 +14,7 @@ Gauge KPIs displaying overall happiness with salary and work-life balance
 
 Slicers and filters to enable dynamic data exploration
 
-🔧 Power BI features used:
+🔧 **Power BI features used**:
 
 DAX measures and calculated columns
 
@@ -24,7 +24,7 @@ Visual-level and page-level filters
 
 KPI visualizations and custom formatting
 
-💡 My contributions:
+💡 **My contributions**:
 
 Designed the full report layout and selected visualizations for clarity and storytelling
 
